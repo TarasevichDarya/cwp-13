@@ -1,0 +1,7 @@
+{
+  "db": "tracking",
+  "login": "root",
+  "password": "Mysql123",
+  "host": "localhost",
+  "dialect": "mysql"
+}
